@@ -1,0 +1,437 @@
+
+
+.h1
+{
+	width: 100%;
+	height: 150px;
+	background-color:#de1616}
+.l1
+{
+	position: absolute;
+	top: 7%;
+	left: 1%;
+	border-radius:50%;
+}
+.d1
+{
+	position: absolute;
+	top: 8%;
+	left:9%;
+	color: white;
+	font-size: 34px;
+	font-family: Comic Sans MS;
+
+}
+.s1
+{
+	position: absolute;
+	top: 8%;
+	right: 27%;
+}
+.m1
+{
+	position: absolute;
+	top: 8%;
+	right: 15%;
+	color:white;
+	font-size: 17px;
+	font-family:Comic Sans MS; 
+}
+.m1 a
+{
+	color: white;
+}
+.i1
+{
+	position: absolute;
+	top: 8%;
+	right: 10.5%;
+	font-size: 17px;
+	font-family:Comic Sans MS;
+}
+.i1 a
+{
+color:white;
+}
+
+.or
+{
+    position: absolute;
+	top: 8%;
+	right:13.5%;
+	color: white;
+	font-size: 17px;
+	font-family:Comic Sans MS;
+}
+
+ ul
+{
+	margin: -40px 0px 0px;
+	margin-left: 1%;
+	padding: 0px;
+	list-style: none;
+}
+ul li
+{
+	float: left;
+	width: 180px;
+	height: 40px;
+	background-color:black;
+  opacity: 0.9;
+	line-height: 40px;
+	text-align: center;
+	
+}
+ul li a
+{
+	text-decoration: none;
+	color: white;
+	display: block;
+}
+ul li a:hover
+{
+	background-color:#de1616;
+}
+ul li ul li
+{
+	display: none;
+}
+ul li:hover ul li
+{
+	display: block;
+	opacity: 0.9;
+}
+.search
+{ color:white;
+	position: absolute;
+	top: 16%;
+	right: 14%;
+}
+ 
+.search input
+{   
+	width:170px;
+	height: 25px;
+}
+.button
+{
+	    position: absolute;
+	top: 16%;
+	right:8.5%;	
+}
+.button button
+{     color:white;
+	background-color:#de1616;
+	width: 80px;
+	height: 25px;
+}
+
+.mySlides 
+{
+	display:none;
+}
+
+
+.text1
+ {
+  color:black;
+  font-size: 30px;
+  padding: 8px 12px;
+  position: absolute;
+  top:56%;
+  left: 15%;
+  width: 70%;
+  text-align: center;
+}
+.text2
+ {
+  color:black;
+  font-size: 30px;
+  padding: 8px 12px;
+  position: absolute;
+  top:36%;
+  left: 57%;
+  width: 40%;
+  text-align: center;
+}
+.text3
+ {
+  color:black;
+  font-size: 30px;
+  padding: 8px 12px;
+  position: absolute;
+  top:56%;
+  left: 27%;
+  width: 40%;
+  text-align: center;
+}
+.new
+{
+	background-color:#007399; 
+	width: 100%;
+	height: 690px;
+
+}
+.addition
+{
+	font-family:Comic Sans MS; 
+	font-size:24px;
+	color: white;
+	text-align: center;
+}
+.toyota
+{
+	font-family:Comic Sans MS; 
+	font-size:24px;
+	color: black;
+	text-align: center;
+}
+.new1
+{
+	position: absolute;
+	left: 40%;
+}
+.new2
+{
+	font-family:Comic Sans MS; 
+	font-size:24px;
+	color: red;
+	position: absolute;
+	left: 10%;
+	bottom: 9%;
+}
+.corolla
+{
+	position: relative;
+	left: 5%;
+}
+.paradow
+{
+    font-family:Comic Sans MS; 
+	font-size:24px;
+	color: black;
+	position: absolute;
+	left: 76%;
+	bottom:15%;	
+}
+.paro
+{
+	position: absolute;
+	left:74%;
+	top:107%;
+}
+.bar
+{
+	position: relative;
+	left: 0%;
+	margin: 0px;
+	padding: 80px;	
+}
+.about
+{
+	position: absolute;
+	left: 11%;
+	bottom: -26%;
+    font-family:Comic Sans MS; 
+	font-size:24px;
+	color: black;	
+}
+.paragraph
+{
+	width:300px;
+	height:10px;
+	color: red;
+	font-size: 20px;
+	position: absolute;
+	left:6%;
+	bottom:-30%;
+}
+.us
+{
+	position: absolute;
+	left:-10%;
+	bottom:-210%;
+}
+.addition
+{
+	font-family:Comic Sans MS; 
+	font-size:24px;
+	color: white;
+	text-align: center;
+}
+.toyota
+{
+	font-family:Comic Sans MS; 
+	font-size:24px;
+	color: black;
+	text-align: center;
+}
+.new1
+{
+	position: absolute;
+	left: 40%;
+}
+.new2
+{
+	font-family:Comic Sans MS; 
+	font-size:24px;
+	color: black;
+	position: absolute;
+	left: 10%;
+	bottom: -6%;
+}
+.corolla
+{
+	position: relative;
+	left: 5%;
+}
+.paradow
+{
+    font-family:Comic Sans MS; 
+	font-size:24px;
+	color: black;
+	position: absolute;
+	left: 76%;
+	bottom: -7%;	
+}
+.paro
+{
+	position: absolute;
+	left:74%;
+	bottom:-30%;
+}
+.bar
+{
+	position: absolute;
+	left:3%;
+	margin: 0px;
+	padding:35px;	
+}
+.about
+{
+	position: absolute;
+	left: 9%;
+	bottom:-41%;
+    font-family:Comic Sans MS; 
+	font-size:30px;
+	color: white;	
+}
+.paragraph
+{
+	width: 590px;
+	height: 10px;
+	color: white;
+	font-size: 20px;
+	position: absolute;
+	left: 9%;
+	bottom:-43%;
+}
+.us
+{
+	position: absolute;
+	left:57%;
+	bottom:-83%;
+}
+.foot
+{
+	width: 100%;
+	height:800px;
+	background-color:black;
+}
+.o1
+{
+	position: absolute;
+	left:4%;
+	bottom: -80%;
+	padding: 17px;
+}
+.delta
+{
+	position: absolute;
+	left:11%;
+	bottom:-80%;
+	padding: 29px;
+	font-size: 24px;
+	color: white;
+	font-family: Comic Sans MS;
+}
+.call
+{
+	position: absolute;
+	left: 3%;
+	padding:7%;
+	bottom: -105%;
+}
+.callus
+{
+	position: absolute;
+	left: 7%;
+	padding: 6%;
+	bottom:-106%;
+	font-size: 24px;
+	color: white;
+	font-family: Comic Sans MS;
+}
+.time1
+{
+	position: absolute;
+	left: 10%;
+    bottom:-85%;
+}
+.from
+{
+    position: absolute;
+	left: 13%;
+	bottom: -85%;
+	font-size: 24px;
+	color: white;
+	font-family: Comic Sans MS;	
+}
+.copy
+{
+	position: absolute;
+	left: 40%;
+	bottom: -125%;
+	font-size: 24px;
+	color: white;
+	font-family: Comic Sans MS;
+}
+.p1
+{
+	position: absolute;
+	left:5%;
+	padding:1%;
+	bottom:-110%;
+	font-size: 24px;
+	font-family: Comic Sans MS;
+}
+
+
+
+.p2
+{
+	position: absolute;
+	left:23%;
+	padding:1%;
+	bottom:-110%;
+	font-size: 24px;
+	font-family: Comic Sans MS;
+}
+.p3
+{
+	position: absolute;
+	left:54%;
+	padding:1%;
+	bottom:-110%;
+	font-size: 24px;
+	font-family: Comic Sans MS;
+}
+.p4
+{
+	position: absolute;
+	left:80%;
+	padding:1%;
+	bottom:-110%;
+	font-size: 24px;
+	font-family: Comic Sans MS;
+}
